@@ -55,7 +55,7 @@ PojoWallpaper follows the Clean Architecture structure and MVVM. <br>
 - [DownloadManager](https://lottiefiles.com/) Download Wallpapers
 
 ## :heart: Find this repository useful?
-Support it by joining __[stargazers]()__ for this repository. :star: also, __[follow me])__ on GitHub for my next creations! 🤩
+Support it by joining __[stargazers](https://github.com/ahmadhashembatal77/Pojo-Wallpaper/stargazers)__ for this repository. :star: also, __[follow me](https://github.com/ahmadhashembatal77)__ on GitHub for my next creations! 🤩
 
 # License
 ```XML
